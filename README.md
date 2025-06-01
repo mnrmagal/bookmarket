@@ -16,8 +16,9 @@
 ---
 
 🎮 **sobre o projeto**  
-um site que mistura arte em pixel, animações de sprites e interatividade leve, feito pra representar minha identidade online.  
-o ícone do site foi substituído por um sprite animado do grabber, reforçando a proposta visual.
+um bookmarklet que pega informações de um usuário que clicar em cima do link que criar. <p align="center">
+  <a href= instagram.com/mnr_magal/" target="_blank">segue no insta </a>
+</p>
 
 🔖 **bookmarklet**  
 arraste o botão abaixo para sua barra de favoritos para carregar o site sobre qualquer página:
