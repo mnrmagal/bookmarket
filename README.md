@@ -16,9 +16,8 @@
 ---
 
 🎮 **sobre o projeto**  
-um bookmarklet que pega informações de um usuário que clicar em cima do link que criar. <p align="center">
-  <a href= instagram.com/mnr_magal/" target="_blank">segue no insta </a>
-</p>
+um bookmarklet que pega informações de um usuário que clicar em cima do link que criar. 
+
 
 🔖 **bookmarklet**  
 arraste o botão abaixo para sua barra de favoritos para carregar o site sobre qualquer página:
