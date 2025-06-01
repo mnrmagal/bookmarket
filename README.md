@@ -23,7 +23,7 @@
 
 ## 🎯 O que é?
 
-**[mnrmagal.github.io](https://mnrmagal.github.io)** é o seu portal para conteúdos, projetos e criações desenvolvidas por [@mnrmagal](https://github.com/mnrmagal).  
+**[mnrmagal.github.io](https://mnrmagal.github.io)** é um site de grabber cria por mim [@mnrmagal](https://github.com/mnrmagal) para tracking de links etc.  
 Um site moderno, direto e integrado que você pode acessar instantaneamente **sobre qualquer página da web** usando um simples **bookmarklet**.
 
 Essa ferramenta sobrepõe o site diretamente onde você estiver navegando — sem precisar sair da aba atual. Perfeito para consultar conteúdos, ferramentas e experimentos sem interrupções.
