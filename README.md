@@ -1,41 +1,26 @@
-# ✨ [mnrmagal.github.io](https://mnrmagal.github.io) — Seu espaço criativo online
-
 <p align="center">
-  <a href="https://mnrmagal.github.io" target="_blank">
-    <img src="https://mnrmagal.github.io/favicon.ico" alt="mnrmagal logo" width="64" height="64" />
-  </a>
+  <img src="https://i.ibb.co/4hPJnzP/grabber-by-noyato-final-60fps.gif" width="128px" alt="Grabber by Noyato"/>
 </p>
 
-<div align="center">
-
-[![Open in Browser](https://img.shields.io/badge/Open-in%20Browser-brightgreen?style=for-the-badge&logo=firefox)](https://mnrmagal.github.io)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/mnrmagal/mnrmagal.github.io/blob/main/LICENSE)
-
-</div>
-
----
+<h1 align="center">grabber by noyato</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/4hPJnzP/grabber-by-noyato-final-60fps.gif" alt="Preview do bookmarklet mnrmagal" width="100%" />
+  site pessoal animado com estética pixelada e vibe retrô.<br/>
+  uma experiência visual feita pra ser divertida, diferente e interativa.
+</p>
+
+<p align="center">
+  <a href="https://mnrmagal.github.io" target="_blank">🌐 acessar o site</a>
 </p>
 
 ---
 
-## 🎯 O que é?
+🎮 **sobre o projeto**  
+um site que mistura arte em pixel, animações de sprites e interatividade leve, feito pra representar minha identidade online.  
+o ícone do site foi substituído por um sprite animado do grabber, reforçando a proposta visual.
 
-**[mnrmagal.github.io](https://mnrmagal.github.io)** é um site de grabber cria por mim [@mnrmagal](https://github.com/mnrmagal) para tracking de links etc.  
-Um site moderno, direto e integrado que você pode acessar instantaneamente **sobre qualquer página da web** usando um simples **bookmarklet**.
+🔖 **bookmarklet**  
+arraste o botão abaixo para sua barra de favoritos para carregar o site sobre qualquer página:
 
-Essa ferramenta sobrepõe o site diretamente onde você estiver navegando — sem precisar sair da aba atual. Perfeito para consultar conteúdos, ferramentas e experimentos sem interrupções.
-
----
-
-## ⚡ Bookmarklet Super Prático
-
-### 🧩 Como usar
-
-1. Crie um **favorito** no seu navegador.
-2. No campo de **URL** do favorito, cole o código abaixo:
-
-```javascript
-javascript:(function(){if(document.getElementById('mnrmagal-bookmarklet-iframe')){alert('O site já está carregado acima.');return;}var iframe=document.createElement('iframe');iframe.id='mnrmagal-bookmarklet-iframe';iframe.src='https://mnrmagal.github.io';iframe.style.position='fixed';iframe.style.top='0';iframe.style.left='0';iframe.style.width='100%';iframe.style.height='100%';iframe.style.border='none';iframe.style.zIndex='9999999';iframe.style.backgroundColor='white';var btnClose=document.createElement('button');btnClose.textContent='✕ Fechar';btnClose.id='mnrmagal-bookmarklet-close-btn';btnClose.style.position='fixed';btnClose.style.top='10px';btnClose.style.right='10px';btnClose.style.padding='10px 15px';btnClose.style.fontSize='16px';btnClose.style.zIndex='10000000';btnClose.style.cursor='pointer';btnClose.style.backgroundColor='rgba(0,0,0,0.7)';btnClose.style.color='white';btnClose.style.border='none';btnClose.style.borderRadius='5px';btnClose.style.boxShadow='0 2px 5px rgba(0,0,0,0.3)';btnClose.onclick=function(){iframe.remove();btnClose.remove();};document.body.appendChild(iframe);document.body.appendChild(btnClose);})();
+```html
+<a href="javascript:(function(){if(document.getElementById('mnrmagal-bookmarklet-iframe')){alert('O site já está carregado acima.');return;}var iframe=document.createElement('iframe');iframe.id='mnrmagal-bookmarklet-iframe';iframe.src='https://mnrmagal.github.io';iframe.style.position='fixed';iframe.style.top='0';iframe.style.left='0';iframe.style.width='100%';iframe.style.height='100%';iframe.style.border='none';iframe.style.zIndex='9999999';iframe.style.backgroundColor='white';var btnClose=document.createElement('button');btnClose.textContent='✕ Fechar';btnClose.id='mnrmagal-bookmarklet-close-btn';btnClose.style.position='fixed';btnClose.style.top='10px';btnClose.style.right='10px';btnClose.style.padding='10px 15px';btnClose.style.fontSize='16px';btnClose.style.zIndex='10000000';btnClose.style.cursor='pointer';btnClose.style.backgroundColor='rgba(0,0,0,0.7)';btnClose.style.color='white';btnClose.style.border='none';btnClose.style.borderRadius='5px';btnClose.style.boxShadow='0 2px 5px rgba(0,0,0,0.3)';btnClose.onclick=function(){iframe.remove();btnClose.remove();};document.body.appendChild(iframe);document.body.appendChild(btnClose);})();">🧲 abrir com grabber</a>
